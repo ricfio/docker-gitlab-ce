@@ -47,6 +47,12 @@ Install GitLab CE (Community Edition) self-managed on your host with docker.
 
     - users-url: [https://gitlab.example.com/users/](https://gitlab.example.com/users/)
 
+7. Login GitLab docker container (optional):
+
+    ```bash
+    docker exec -it gitlab bash
+    ```
+
 NOTE:  
 This install procedure was tested on 2022-03-26 using Docker-Desktop and WSL2 (Ubuntu) on Windows 10.
 
