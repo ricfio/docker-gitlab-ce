@@ -71,7 +71,7 @@ The administrator password will be random generated if you remove the configurat
 In this case you can display the initial root password as follow:
 
 ```bash
-docker exec gitlab bash -c 'cat /etc/gitlab/initial_root_password'
+docker exec gitlab cat /etc/gitlab/initial_root_password
 ```
 
 ```console
