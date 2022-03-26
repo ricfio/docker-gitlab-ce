@@ -52,9 +52,9 @@ This install procedure was tested on 2022-03-26 using Docker-Desktop and WSL2 (U
 
 ## References
 
-- [https://docs.gitlab.com/ee/install/docker.html]
-- [https://hub.docker.com/r/gitlab/gitlab-ce]
-- [https://www.youtube.com/watch?v=BTSf2OoFyqE]
+- [https://docs.gitlab.com/ee/install/docker.html](https://docs.gitlab.com/ee/install/docker.html)
+- [https://hub.docker.com/r/gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce)
+- [https://www.youtube.com/watch?v=BTSf2OoFyqE](https://www.youtube.com/watch?v=BTSf2OoFyqE)
 
 ## Appendix
 
